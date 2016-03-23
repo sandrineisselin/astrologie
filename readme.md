@@ -1,0 +1,1 @@
+Classe qui permet de définir le signe astrologique et la numérologie d'un utilisateur.
